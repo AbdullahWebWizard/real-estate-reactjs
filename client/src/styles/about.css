@@ -1,0 +1,99 @@
+.top-info {
+    margin-top: 20px;
+    justify-content: center;
+    text-align: center;
+    
+    font-size: 40px;
+    font-weight: 300;
+  }
+  .top-info2{
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+  
+    font-size: 22px;
+    font-weight: 300;
+  }
+  .heading2{
+    margin-top: 30px;
+    justify-content: center;
+    text-align: center;
+    
+    font-size: 30px;
+    font-weight: 300;
+  
+  }
+  .top-info3{
+    justify-content: center;
+    text-align: center;
+   
+  
+    font-size: 22px;
+    font-weight: 300;
+  
+  
+  }
+  .aboutpic {
+  
+    height: 40%;
+    max-width: 40%;
+    margin-left:100px;
+  }
+  .info4 {
+    font-size: 22px;
+    font-weight: 300;
+  
+  }
+  .container {
+    display: flex;
+    justify-content: space-between;
+  
+  }
+  
+  .image1 {
+    margin-top: 40px;
+    height: 70%;
+    max-width: 100%;
+    border-radius: 15px 15px 15px 15px; 
+  }
+  
+  .text_ {
+    margin-top: 40px;
+    width: 60%;
+   
+    font-family: 'Ubuntu', sans-serif;
+  }
+  .text1{
+    font-size: 22px;
+  }
+  .text2{
+    font-size: 18px;
+  }
+  .team {
+    display: flex;
+    justify-content: space-around;
+   
+  }
+  
+  .team-member {
+    width: 300px;
+    padding: 20px;
+    
+  
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .team-member img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+  }
+  
+  .team-member h3, .team-member p {
+    margin: 0;
+    font-size: 22px;
+    font-weight: 300;
+  }
+
+  
